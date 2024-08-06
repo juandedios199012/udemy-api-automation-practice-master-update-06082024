@@ -1,6 +1,7 @@
-code of course  "Test Automation Foundations" 💡  de Ozan İlhan in udemy
-https://www.udemy.com/course/test-automation-foundations/
-https://github.com/softwaretestingmasterclass
+code of course  "Test Automation Foundations" 💡  de Ozan İlhan
+- https://www.udemy.com/course/test-automation-foundations/
+- https://github.com/softwaretestingmasterclass
+- https://www.linkedin.com/in/ozanilhan/
 
 # Udemy API Automation Practice
 
